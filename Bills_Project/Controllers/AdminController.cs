@@ -19,7 +19,7 @@ namespace Bills_Project.Controllers
         }
         public IActionResult SaveClient(Client newClient )
         {
-           // newClient.Number = ((newClient.Id *2)+4).ToString();
+           // newClient.Number = ((newClient.Id *2)+4).ToString(); 
             if (ModelState.IsValid == true)
             {
                 clintRepository.Insert(newClient);
