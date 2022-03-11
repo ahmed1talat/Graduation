@@ -7504,19 +7504,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\asus\\.nuget\\packages\\": {}
+    "C:\\Users\\FreeComp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PROJECT\\Graduation\\Bills_Project\\Bills_Project.csproj",
+      "projectUniqueName": "C:\\Users\\FreeComp\\Desktop\\New folder\\Bills_Project_2\\Bills_Project\\Bills_Project.csproj",
       "projectName": "Bills_Project",
-      "projectPath": "E:\\PROJECT\\Graduation\\Bills_Project\\Bills_Project.csproj",
-      "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "E:\\PROJECT\\Graduation\\Bills_Project\\obj\\",
+      "projectPath": "C:\\Users\\FreeComp\\Desktop\\New folder\\Bills_Project_2\\Bills_Project\\Bills_Project.csproj",
+      "packagesPath": "C:\\Users\\FreeComp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\FreeComp\\Desktop\\New folder\\Bills_Project_2\\Bills_Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\FreeComp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
