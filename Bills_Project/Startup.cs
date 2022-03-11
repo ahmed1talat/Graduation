@@ -1,3 +1,5 @@
+using Bills_Project.Models;
+using Bills_Project.services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -23,6 +25,7 @@ namespace Bills_Project
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddScoped<IClintRepository, ClintRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
